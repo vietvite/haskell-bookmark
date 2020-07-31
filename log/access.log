@@ -1,0 +1,7 @@
+127.0.0.1 - - [09/Jun/2020:21:47:21 +0700] "GET /bookmarks HTTP/1.1" 200 - - "curl/7.70.0"
+127.0.0.1 - - [27/Jul/2020:08:17:00 +0700] "GET / HTTP/1.1" 200 - - "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36"
+127.0.0.1 - - [27/Jul/2020:08:17:01 +0700] "GET /favicon.ico HTTP/1.1" 200 - "http://0.0.0.0:8000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36"
+127.0.0.1 - - [27/Jul/2020:08:17:07 +0700] "GET /contact HTTP/1.1" 200 - - "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36"
+127.0.0.1 - - [27/Jul/2020:08:17:07 +0700] "GET /favicon.ico HTTP/1.1" 200 - "http://0.0.0.0:8000/contact" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36"
+127.0.0.1 - - [27/Jul/2020:08:17:09 +0700] "GET /contacts HTTP/1.1" 200 - - "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36"
+127.0.0.1 - - [27/Jul/2020:08:17:09 +0700] "GET /favicon.ico HTTP/1.1" 200 - "http://0.0.0.0:8000/contacts" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36"

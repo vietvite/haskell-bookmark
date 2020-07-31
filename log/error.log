@@ -1,0 +1,7 @@
+[09/Jun/2020:21:46:36 +0700] Server.httpServe: START, binding to [http://0.0.0.0:8000/]
+[27/Jul/2020:08:16:38 +0700] Server.httpServe: START, binding to [http://0.0.0.0:8000/]
+[27/Jul/2020:08:17:12 +0700] Server.httpServe: SHUTDOWN
+[27/Jul/2020:08:17:12 +0700] Server.httpServe: BACKEND STOPPED
+[27/Jul/2020:08:36:50 +0700] Server.httpServe: START, binding to [http://0.0.0.0:8000/]
+[27/Jul/2020:08:37:01 +0700] Server.httpServe: SHUTDOWN
+[27/Jul/2020:08:37:01 +0700] Server.httpServe: BACKEND STOPPED
